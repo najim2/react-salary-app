@@ -1,0 +1,39 @@
+.single-employee{
+    text-align: center;
+    background-color: #fff;
+    box-shadow: 0 0 5px lightgray;
+    line-height: 7px;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.single-employee h3{
+    color: #0693e3;
+    font-weight: 500;
+}
+.single-employee img{
+    width: 100%;
+    height: 200px;
+}
+.pay-btn,.paid{
+    padding: 10px 25px;
+    background-color: #5ca4ce;
+    border: 1px solid #666;
+    color: #fff;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    cursor: pointer;
+}
+.paid{
+    background-color: green;
+    cursor: default;
+}
+
+.single-employee:hover{
+    box-shadow: lightgrey 5px 5px 30px;
+    transition: .5s;
+}
+
+
+
+
+

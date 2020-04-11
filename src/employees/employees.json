@@ -1,0 +1,40 @@
+[
+    {
+        "name" : "Rimon Hasan",
+        "photo" : "https://i.ibb.co/StDWtG7/Rimon.jpg",
+        "designation" : "Programmer",
+        "salary" : "30000"
+    },
+    {
+        "name" : "Sumon Islam",
+        "photo" : "https://i.ibb.co/2gmY9xS/sumon.jpg",
+        "designation" : "Web Developer",
+        "salary" : "28000"
+    },
+    {
+        "name" : "Rifat Hossain",
+        "photo" : "https://i.ibb.co/HhCn1GT/rifat.jpg",
+        "designation" : "Wordpress Developer",
+        "salary" : "25000"
+    },
+    {
+        "name" : "Sobuj Mia",
+        "photo" : "https://i.ibb.co/F8nNR7g/Sobuk.jpg",
+        "designation" : "Graphics Designer",
+        "salary" : "20000"
+    },
+    {
+        "name" : "Ridoy Islam",
+        "photo" : "https://i.ibb.co/PmFb37F/Ridoy.jpg",
+        "designation" : "Graphics Designer",
+        "salary" : "15000"
+    },
+    {
+        "name" : "Adib Hasan",
+        "photo" : "https://i.ibb.co/x8CbNf6/adib.jpg",
+        "designation" : "Jr. Executive",
+        "salary" : "12000"
+    }
+    
+    
+]
